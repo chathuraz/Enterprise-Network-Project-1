@@ -19,7 +19,7 @@ This project serves as a foundational networking exercise, demonstrating structu
 
 📂 Files Included:
 
-.pkt (Cisco Packet Tracer project file)
+Subnet.pkt (Cisco Packet Tracer project file)
 README.md (Project details and instructions)
 
 🔗 #Networking #CiscoPacketTracer #ITInfrastructure #NetworkDesign
