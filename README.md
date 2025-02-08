@@ -21,5 +21,5 @@ This project serves as a foundational networking exercise, demonstrating structu
 
 .pkt (Cisco Packet Tracer project file)
 README.md (Project details and instructions)
-🚀 Feel free to explore, modify, and enhance the network!
+
 🔗 #Networking #CiscoPacketTracer #ITInfrastructure #NetworkDesign
